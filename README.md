@@ -34,7 +34,7 @@ Roast Type Full Names: Added a column mapping roast type abbreviations to descri
 Our analysis yielded valuable business insights:
 
 Total Sales Over Time: Visualized the trend of total sales over a defined period.
-Sales by store: Explored the distribution of sales across different countries.
+Sales by store: Explored the distribution of sales across different stores.
 Top 5 products: Identified the top five products based on their purchasing sales.
 
 # Project Conclusion
